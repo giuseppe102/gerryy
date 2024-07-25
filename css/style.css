@@ -505,14 +505,14 @@
     color: #0cb50c;
 }
 .testo{
-    
+   
     color: #677164;
-    display: flex;
-    justify-content: ;
+    text-align: left;
+   float: left;
 }
 
 @media screen and (max-width:576px) {
   .testo{
-    font-size: small;
+    font-size: medium;
   }
  }
