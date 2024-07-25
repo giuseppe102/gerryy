@@ -510,3 +510,9 @@
     display: flex;
     justify-content: ;
 }
+
+@media screen and (max-width:576px) {
+  .testo{
+    font-size: small;
+  }
+ }
