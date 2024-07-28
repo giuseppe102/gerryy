@@ -501,11 +501,12 @@
     letter-spacing: 1px;
     box-shadow: none;
 }
-.verde{
+.verdewhatsapp{
     color: #0cb50c;
+    
 }
 .testo{
-   
+   /* opacity: 30%; */
     color: #677164;
     text-align: left;
    float: left;
@@ -515,4 +516,17 @@
   .testo{
     font-size: medium;
   }
+ }
+ .cursor{
+    cursor: pointer;
+ }
+ .prova{
+    width: 50px;
+ }
+ 
+ h1{
+    color: #777777;
+ }
+ h2{
+    color: #777777;
  }
